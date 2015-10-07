@@ -19,5 +19,8 @@ Versions:
 -Java: JRE 1.7.0_45
 -OS: OSX 10.9.5
 
+Associated issue:
+https://code.google.com/p/android/issues/detail?id=188994&thanks=188994&ts=1444217495
+
 
 
